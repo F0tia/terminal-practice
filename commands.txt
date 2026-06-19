@@ -4,3 +4,5 @@ pwd - print working directory
 grep - search inside files
 find - search for files
 mv - move or rename
+cp - copy files
+rm - remove files (careful!)
