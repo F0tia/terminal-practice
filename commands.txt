@@ -2,3 +2,5 @@ ls - list files
 cd - change directory
 pwd - print working directory
 grep - search inside files
+find - search for files
+mv - move or rename
